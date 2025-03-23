@@ -4,3 +4,4 @@ Building an LLM-Powered Booking Analytics &amp; QA System
 - rag.ipynb is the model
 - app.py is backend
 - streamlit.py is front-end
+- Assignment docx contains short report of implementation
